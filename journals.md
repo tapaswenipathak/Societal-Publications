@@ -7,3 +7,9 @@
 - [oxford journal](https://academic.oup.com/sf)
 - [MDPI journal](https://www.mdpi.com/journal/socsci)
 - [Elsevier journal](https://www.journals.elsevier.com/the-social-science-journal)
+- [Ecology and society journal](https://www.ecologyandsociety.org/)
+- [UNL journal](https://unl.libguides.com/)
+- [social and political journal](https://jspp.psychopen.eu/)
+- [Open access journal](https://en.wikipedia.org/wiki/Open_access/)
+
+
